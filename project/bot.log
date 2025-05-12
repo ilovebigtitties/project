@@ -1,0 +1,23 @@
+2025-05-10 20:52:39,597 - __main__ - INFO - Бот запущен
+2025-05-10 20:52:39,598 - aiogram.dispatcher - INFO - Start polling
+2025-05-10 20:52:43,068 - aiogram.dispatcher - INFO - Run polling for bot @cities_game3_bot id=7477794349 - 'CitiesGameBot3'
+2025-05-10 20:53:47,723 - __main__ - INFO - Пользователь 5207669561 запустил бота
+2025-05-10 20:53:47,724 - aiogram.event - INFO - Update id=921121268 is handled. Duration 296 ms by bot id=7477794349
+2025-05-10 20:53:53,928 - aiogram.event - INFO - Update id=921121269 is handled. Duration 109 ms by bot id=7477794349
+2025-05-10 20:53:57,451 - aiogram.event - INFO - Update id=921121270 is handled. Duration 188 ms by bot id=7477794349
+2025-05-10 20:54:10,277 - aiogram.event - INFO - Update id=921121271 is handled. Duration 78 ms by bot id=7477794349
+2025-05-10 20:54:20,634 - aiogram.event - INFO - Update id=921121272 is handled. Duration 63 ms by bot id=7477794349
+2025-05-10 21:08:10,546 - aiogram.event - INFO - Update id=921121273 is handled. Duration 125 ms by bot id=7477794349
+2025-05-10 21:08:12,539 - aiogram.event - INFO - Update id=921121274 is handled. Duration 109 ms by bot id=7477794349
+2025-05-10 21:08:15,758 - aiogram.event - INFO - Update id=921121275 is handled. Duration 219 ms by bot id=7477794349
+2025-05-10 21:08:26,546 - aiogram.event - INFO - Update id=921121276 is handled. Duration 94 ms by bot id=7477794349
+2025-05-10 21:10:06,426 - __main__ - INFO - Пользователь 1598624026 запустил бота
+2025-05-10 21:10:06,427 - aiogram.event - INFO - Update id=921121277 is handled. Duration 94 ms by bot id=7477794349
+2025-05-10 21:10:19,251 - aiogram.event - INFO - Update id=921121278 is handled. Duration 94 ms by bot id=7477794349
+2025-05-10 21:10:23,862 - aiogram.event - INFO - Update id=921121279 is handled. Duration 77 ms by bot id=7477794349
+2025-05-10 21:10:45,210 - aiogram.event - INFO - Update id=921121280 is handled. Duration 77 ms by bot id=7477794349
+2025-05-10 21:10:54,484 - aiogram.event - INFO - Update id=921121281 is handled. Duration 77 ms by bot id=7477794349
+2025-05-10 21:11:03,850 - aiogram.event - INFO - Update id=921121282 is handled. Duration 61 ms by bot id=7477794349
+2025-05-10 21:11:22,303 - aiogram.event - INFO - Update id=921121283 is handled. Duration 109 ms by bot id=7477794349
+2025-05-10 21:11:31,814 - aiogram.event - INFO - Update id=921121284 is handled. Duration 78 ms by bot id=7477794349
+2025-05-10 21:11:41,950 - aiogram.event - INFO - Update id=921121285 is handled. Duration 109 ms by bot id=7477794349
